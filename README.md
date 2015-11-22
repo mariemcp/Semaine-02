@@ -23,7 +23,7 @@ J'ai obtenu 2 badges supplémentaires que l'on peut admirer en [cliquant sur ce 
             <li>1988 : aide-comptable pendant 4 ans à la SAHLM Habitat 2036 à Châteauroux, devenue SCALIS depuis ;</li>
             <li>1998 à 2000 : plusieurs missions dans des cabinets comptables pendant les périodes fiscales </li>
             <li>2004 : secrétaire comptable dans l'entreprise de maçonnerie de mon mari ;</li>
-            <li>2007 : création du <a href="http://maconneriedenisperin.pagesperso-orange.fr">[site internet de son entreprise] ; </a></li>
+            <li>2007 : création du <a href="http://maconneriedenisperin.pagesperso-orange.fr">site internet de son entreprise ; </a></li>
             <li>2010 : AVS auprès d'enfants polyhandicapés.</li>
         </ul>
         <h3 style="font-size:22px">Formation</h3>
