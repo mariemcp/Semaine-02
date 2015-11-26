@@ -5,4 +5,4 @@ Pour ce faire, j'ai suivi les vidéos d'Open Classrooms et appréhendé quelques
 Puis j'ai fait les exercices des deux premiers modules à l'introduction au HTML sur le site de codecademy.
 J'ai obtenu 2 badges supplémentaires que l'on peut admirer en [cliquant sur ce lien](https://codecademy.com/fr/users/Mariemcp/achievements)!
 
-Et voici le lien pour voir mon [mon premier cv en html!](https://www.github.com/mariemcp/Semaine-02/master/index.html)
+Et voici le lien pour voir mon [mon premier cv en html!](https://htmlpreview.github.io/?https:://github.com/mariemcp/Semaine-02/master/index.html)
